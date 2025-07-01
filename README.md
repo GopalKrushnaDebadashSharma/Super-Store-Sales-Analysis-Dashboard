@@ -68,9 +68,7 @@ Developed an interactive dashboard that empowers retail decision-makers by:
 
 > 📸 Add your dashboard screenshot here  
 > Example: `![Dashboard](./visuals/https://github.com/GopalKrushnaDebadashSharma/Super-Store-Sales-Analysis-Dashboard/blob/main/Superstore_Dashboard.jpg)`
-)
 
-)`
 
 ---
 
