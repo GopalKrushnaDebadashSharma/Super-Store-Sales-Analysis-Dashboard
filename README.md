@@ -67,7 +67,8 @@ Developed an interactive dashboard that empowers retail decision-makers by:
 ## 🖼️ Dashboard Preview
 
 > 📸 Add your dashboard screenshot here  
-> Example: `![Dashboard Preview](./visuals/superstore_dashboard.jpg)
+> Example: `![Dashboard Preview](![Superstore_Dashboard](https://github.com/user-attachments/assets/28f648c3-b83d-49e5-9859-a365152b7acb)
+)
 
 )`
 
